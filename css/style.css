@@ -2408,34 +2408,34 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #212529;
-  background-color: #62C3E7;
-  border-color: #62C3E7;
+  background-color: #8A685F;
+  border-color: #8A685F;
 }
 
 .btn-secondary:hover {
   color: #212529;
-  background-color: #41b6e2;
-  border-color: #36b2e0;
+  background-color: #8a685fe1;
+  border-color: #8a685fe1;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
   color: #212529;
-  background-color: #41b6e2;
-  border-color: #36b2e0;
+  background-color: #8a685fe1;
+  border-color: #8a685fe1;
   box-shadow: 0 0 0 0.2rem rgba(88, 171, 203, 0.5);
 }
 
 .btn-secondary.disabled, .btn-secondary:disabled {
   color: #212529;
-  background-color: #62C3E7;
-  border-color: #62C3E7;
+  background-color: #8A685F;
+  border-color: #8A685F;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active,
 .show > .btn-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #36b2e0;
-  border-color: #2baedf;
+  background-color: #8A685F;
+  border-color: #8A685F;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus,
@@ -2698,14 +2698,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary {
-  color: #62C3E7;
-  border-color: #62C3E7;
+  color: #8A685F;
+  border-color: #8A685F;
 }
 
 .btn-outline-secondary:hover {
   color: #212529;
-  background-color: #62C3E7;
-  border-color: #62C3E7;
+  background-color: #8a685fe1;
+  border-color: #8a685fe1;
 }
 
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
@@ -9753,6 +9753,7 @@ h6,
   padding-right: 0;
   text-align: center;
   border-radius: 45px;
+  color: #F2BD7C;
 }
 
 .back-to-top {
@@ -10049,7 +10050,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 15px solid #F195B2;
+  border: 15px solid #F2BD7C;
   border-radius: 200px;
   overflow: hidden;
   z-index: 1;
@@ -10062,7 +10063,7 @@ h6,
   right: 15px;
   bottom: 15px;
   left: 15px;
-  border: 2px solid #F195B2;
+  border: 2px solid #F8DD8C;
   border-radius: 200px;
   transition: .5s;
   z-index: 2;
