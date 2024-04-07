@@ -1363,6 +1363,9 @@ pre code {
   .offset-lg-11 {
     margin-left: 91.66667%;
   }
+.cordillera_img{
+  display: none;
+}
 }
 
 @media (min-width: 1200px) {
@@ -9954,7 +9957,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #F195B2;
+  color: #8A685F;
   background: #FFFFFF;
   border-radius: 60px;
   font-size: 30px;
