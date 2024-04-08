@@ -2412,7 +2412,9 @@ fieldset:disabled a.btn {
 .btn-secondary {
   color: #212529;
   background-color: #8A685F;
-  border-color: #8A685F;
+  border-color: none;
+  box-shadow: 1px; 
+  -webkit-box-shadow: 0px 5px 20px 5px #8a685fe1;
 }
 
 .btn-secondary:hover {
