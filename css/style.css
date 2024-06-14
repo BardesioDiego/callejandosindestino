@@ -318,6 +318,11 @@ legend {
   white-space: normal;
 }
 
+.logocallejando{
+  width: 20px;
+  
+}
+
 @media (max-width: 1200px) {
   legend {
     font-size: calc(1.275rem + 0.3vw) ;
